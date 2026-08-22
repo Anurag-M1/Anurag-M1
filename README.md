@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563ea,100:00E5FF&height=200&section=header&text=Anurag%20Kumar%20Singh&fontSize=48&fontColor=05060A&fontAlignY=38&desc=Founder%20and%20CEO%2C%20Magnence%20%C2%B7%20AI%20Engineer%20%C2%B7%20LLMOps&descAlignY=58&descSize=18&descColor=05060A" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563ea,100:00E5FF&height=200&section=header&text=Anurag%20Kumar%20Singh&fontSize=48&fontColor=05060A&fontAlignY=38&desc=Founder%20and%20CEO%2C%20Magnence%20%C2%B7%20AI%20Engineer%20%C2%B7%20Software%20Developer&descAlignY=58&descSize=18&descColor=05060A" width="100%"/>
 
 <a href="https://github.com/Anurag-m1"><img src="https://img.shields.io/badge/GitHub-05060A?style=for-the-badge&logo=github&logoColor=2563ea"/></a>
 <a href="https://linkedin.com/in/-m1-"><img src="https://img.shields.io/badge/LinkedIn-05060A?style=for-the-badge&logo=linkedin&logoColor=2563ea"/></a>
