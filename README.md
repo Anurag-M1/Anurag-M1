@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563ea,100:00E5FF&height=200&section=header&text=Anurag%20Kumar%20Singh&fontSize=48&fontColor=05060A&fontAlignY=38&desc=Founder%20%26%20CEO%20@%20Magnence%20%C2%B7%20AI%20Engineer%20%C2%B7%20LLMOps&descAlignY=58&descSize=18&descColor=05060A" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563ea,100:00E5FF&height=200&section=header&text=Anurag%20Kumar%20Singh&fontSize=48&fontColor=05060A&fontAlignY=38&desc=Founder%20and%20CEO%2C%20Magnence%20%C2%B7%20AI%20Engineer%20%C2%B7%20LLMOps&descAlignY=58&descSize=18&descColor=05060A" width="100%"/>
 
 <a href="https://github.com/Anurag-m1"><img src="https://img.shields.io/badge/GitHub-05060A?style=for-the-badge&logo=github&logoColor=2563ea"/></a>
 <a href="https://linkedin.com/in/-m1-"><img src="https://img.shields.io/badge/LinkedIn-05060A?style=for-the-badge&logo=linkedin&logoColor=2563ea"/></a>
@@ -134,31 +134,6 @@ Problem → Architecture → Data & Knowledge → AI / LLM Layer
 `Reliable` &nbsp;·&nbsp; `Scalable` &nbsp;·&nbsp; `Maintainable` &nbsp;·&nbsp; `Observable` &nbsp;·&nbsp; `Secure` &nbsp;·&nbsp; `Cost-conscious` &nbsp;·&nbsp; `Production-ready`
 
 </div>
-
-<br/>
-
-## `06` GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Anurag-m1&show_icons=true&hide_border=true&bg_color=00000000&title_color=00E5FF&icon_color=6C5CE7&text_color=C9D1D9&rank_icon=github" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-m1&layout=compact&hide_border=true&bg_color=00000000&title_color=00E5FF&text_color=C9D1D9" height="165"/>
-
-<img src="https://streak-stats.demolab.com?user=Anurag-m1&hide_border=true&background=00000000&ring=6C5CE7&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6b7280"/>
-
-</div>
-
-<br/>
-
-## `07` Magnence
-
-<table><tr><td>
-
-**Magnence** is an AI-first technology company building digital products, intelligent systems, and modern software infrastructure.
-
-**Imagine. Create. Engineer. Elevate.**
-
-</td></tr></table>
 
 <br/>
 
